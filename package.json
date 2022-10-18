@@ -1,0 +1,30 @@
+{
+  "name": "example-king-betray-game",
+  "version": "1.0.0",
+  "description": "example website for a non-existing game",
+  "main": "main.html",
+  "scripts": {
+    "test": "jest",
+    "css": "sass --watch sass/main.scss:./stylesheets.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tomig02/Example-king-betray-game.git"
+  },
+  "keywords": [
+    "example",
+    "website",
+    "modern",
+    "game"
+  ],
+  "author": "tomas guardo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tomig02/Example-king-betray-game/issues"
+  },
+  "homepage": "https://github.com/Tomig02/Example-king-betray-game#readme",
+  "devDependencies": {
+    "jest": "^29.2.0",
+    "sass": "^1.55.0"
+  }
+}
